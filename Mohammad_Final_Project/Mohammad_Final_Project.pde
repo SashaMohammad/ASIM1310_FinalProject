@@ -1,17 +1,16 @@
-
-
-
-
-
+/*
+Sasha Mohammad 
+Final Project
+ASIM 1310
+*/
 void setup(){
+  size(500,500);
+  background (255);
 }
 
 void draw(){
   
-  class Snake{
-    
-    
-  }
+
   
   class movement{
   }

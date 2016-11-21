@@ -8,18 +8,23 @@ void setup(){
   background (255);
 }
 
-void draw(){
-  
 
   
-  class movement{
-  }
-  
-  class board{
+class Snake{
+    
     
   }
   
-}
+
+  
+class movement{
+  }
+  
+class board{
+    
+  }
+  
+
 
 
 

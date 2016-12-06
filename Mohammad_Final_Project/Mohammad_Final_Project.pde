@@ -3,9 +3,9 @@ Sasha Mohammad
  Final Project
  ASIM 1310
  */
-color snake = color (0, 0, 255);
 color food = color (random(255), random(255), random (255));
 color scoreboard  = color (0);
+
 
 void setup() {
   size(500, 500);
@@ -28,10 +28,13 @@ void setup() {
       line(i, 0, i, 1000);
     }
   }
+
 }
 
-
 class Snake {
+  color snake = color (0, 0, 255);
+  float body; //make ellipse
+  
 }
 
 

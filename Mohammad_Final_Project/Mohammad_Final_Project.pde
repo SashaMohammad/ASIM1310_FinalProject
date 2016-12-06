@@ -3,7 +3,7 @@ Sasha Mohammad
  Final Project
  ASIM 1310
  */
-color snake = color (0, 255, 0);
+color snake = color (0, 0, 255);
 color food = color (random(255), random(255), random (255));
 color scoreboard  = color (0);
 
@@ -36,11 +36,7 @@ class Snake {
 
 
 
-class movement {
-}
 
-class board {
-}
 
 
 
